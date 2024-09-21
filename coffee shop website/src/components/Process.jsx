@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Process = () => {
+const Process = ({title,cardDate}) => {
   return (
     <div>
       
