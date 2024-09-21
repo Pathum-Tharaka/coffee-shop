@@ -3,6 +3,8 @@ import './App.css'
 import heroImage from './assets/images/img4.jpg'
 import Hero from './components/Hero'  // Make sure to import the Hero component
 import Navbar from './components/Navbar';
+import Process from './components/Process';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -17,6 +19,8 @@ const App = () => {
         btnText="Shop Now"
         bgSrc={heroImage}
       />
+      <Process/>
+      <Footer />
     </>
   );
 };
