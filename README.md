@@ -1,16 +1,9 @@
 Best Coffee Shop Website
-Show Image
+
+
 Welcome to the Best Coffee Shop website project! This web application showcases our coffee shop's menu, locations, and allows customers to place orders online.
 Table of Contents
 
-Features
-Installation
-Usage
-Technologies Used
-Contributing
-License
-
-Features
 
 Browse our extensive coffee and pastry menu
 Find nearby locations with an interactive map
@@ -26,10 +19,10 @@ Clone the repository:
 Copygit clone https://github.com/best-coffee-shop/website.git
 
 Navigate to the project directory:
-Copycd website
+cd website
 
 Install dependencies:
-Copynpm install
+npm install
 
 Start the development server:
-Copynpm run dev
+npm run dev
